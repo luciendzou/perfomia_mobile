@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "66685680511",
+    "project_id": "perfomia-77e13",
+    "storage_bucket": "perfomia-77e13.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66685680511:android:39734afef77c7e050cf84a",
+        "android_client_info": {
+          "package_name": "com.example.perfomia_mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs4ZhXKQ0wHxKtsGq81cv72HvUMig5NZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
